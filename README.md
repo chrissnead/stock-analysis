@@ -14,7 +14,8 @@ For the list of stocks in 2018, the highest rate of return was 'RUN' while the l
 ![2018 Data](Resources/VBA_Challenge_2018.png)
 
 Both years provided an efficient macro runtime of around 0.11 seconds - about 6 times faster than the original code we started with. Below shows the exact runtimes for each session:
-![2017 Runtime](Resources/All Stocks (2017).png)  ![2018 Runtime](Resources/All Stocks (2018).png)
+![2017 Runtime](Resources/All Stocks (2017).png)
+![2018 Runtime](Resources/All Stocks (2018).png)
 
 ## Summary
 
